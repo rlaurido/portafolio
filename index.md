@@ -8,15 +8,18 @@
 
 ## Proyectos
 ### Curriculum Vitae
-Curriculum Vitae hecho con CSS y HTML como proyecto para la materia de Desarrollo de Aplicaciones Web y Móviles.
+Curriculum Vitae hecho con **CSS** y **HTML** como proyecto para la materia de **Desarrollo de Aplicaciones Web y Móviles**.
+
 [Repositorio del curriculum](https://github.com/rlaurido/curriculum)
 
 ### Aplicación para venta de carros
-Aplicación para venta de carros, con opciones de agregar vehículos en venta y filtrar búsquedas según diferentes características. Hecha en Java, usando JavaFX y aplicando conceptos de estructuras de datos. Proyecto realizado para la materia de Estructuras de Datos.
+Aplicación para venta de carros, con opciones de agregar vehículos en venta y filtrar búsquedas según diferentes características. Hecha en **Java**, usando **JavaFX** y aplicando conceptos de estructuras de datos. Proyecto realizado para la materia de **Estructuras de Datos**.
+
 [Repositorio de la aplicación.](https://github.com/xHianx/Grupo_07)
 
 ### Juego de adivinanza
-Juego de adivinanza basado en preguntas de sí o no. Al finalizar las preguntas, el juego dice el nombre de un animal basado en las respuestas del jugador. Está hecho en Java, usando JavaFX y aplicando conceptos de árboles binarios. Proyecto realizado para la materia de Estructuras de Datos. 
+Juego de adivinanza basado en preguntas de sí o no. Al finalizar las preguntas, el juego dice el nombre de un animal basado en las respuestas del jugador. Está hecho en **Java**, usando **JavaFX** y aplicando conceptos de **árboles binarios**. Proyecto realizado para la materia de **Estructuras de Datos**. 
+
 [Repositorio del juego](https://github.com/edu-gab/Tortuneitor)
 
 ## Tecnologías usadas 

@@ -22,20 +22,20 @@ Juego de adivinanza basado en preguntas de sí o no. Al finalizar las preguntas,
 
 [Repositorio del juego](https://github.com/edu-gab/Tortuneitor)
 
-## Tecnologías usadas 
-### HTML 
+## Tecnologías aprendidas 
+1. ### HTML 
 HTML fue la base para estructurar el contenido de las aplicaciones. Se utilizó para definir la semántica de las páginas, creando elementos como encabezados, párrafos, listas, formularios y otros componentes esenciales para la interacción del usuario.
 
-### CSS 
+2. ### CSS 
 Con CSS, se diseñaron interfaces visualmente atractivas y responsive. Se emplearon propiedades como flexbox y grid para construir layouts adaptables, así como estilos personalizados para garantizar una experiencia de usuario consistente y profesional.
 
-### JavaScript 
+3. ### JavaScript 
 JavaScript permitió dotar de interactividad y dinamismo a las aplicaciones. Fue utilizado para manejar eventos, realizar validaciones en tiempo real, manipular el DOM y consumir APIs externas, habilitando funcionalidades avanzadas dentro de los proyectos.
 
-### TypeScript
+4. ### TypeScript
 TypeScript se implementó para mejorar la escalabilidad y mantenibilidad del código. Gracias a su tipado estático, se lograron prevenir errores comunes en tiempo de desarrollo, garantizando aplicaciones más robustas y seguras.
 
-### React
+5. ### React
 React fue el framework clave para construir interfaces de usuario dinámicas y reutilizables. Se aprovecharon sus capacidades de componentes, manejo de estado y virtual DOM para desarrollar aplicaciones SPA (Single Page Applications) altamente interactivas y eficientes.
 
 
